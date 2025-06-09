@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fac6a60f-a598-40a1-a04f-396c714938a5" name="Changes" comment="hm2...">
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/autograd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/backend_ndarray/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/backend_ndarray/ndarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/backend_ndarray/ndarray_backend_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/backend_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/backend_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/data/data_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/data/data_transforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/data/datasets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/data/datasets/mnist_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/data/datasets/ndarray_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/init/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/init/init_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/init/init_initializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/nn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/nn/nn_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/ops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/ops/ops_logarithmic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/ops/ops_mathematic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/ops/ops_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/needle/optim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ndarray_backend_cpu.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ndarray_backend_cuda.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/hw3/test_ndarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pytest.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2yH3HVCgJF1W82bgwDZ0pIyYqjS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/pycharm_projects/dls_homework&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fac6a60f-a598-40a1-a04f-396c714938a5" name="Changes" comment="" />
+      <created>1749477583742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749477583742</updated>
+      <workItem from="1749477584782" duration="1406000" />
+      <workItem from="1749479237593" duration="335000" />
+    </task>
+    <task id="LOCAL-00001" summary="hm0">
+      <option name="closed" value="true" />
+      <created>1749479106811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749479106811</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hm1">
+      <option name="closed" value="true" />
+      <created>1749479265644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749479265644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hm2...">
+      <option name="closed" value="true" />
+      <created>1749479397531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749479397531</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hm0" />
+    <MESSAGE value="hm1" />
+    <MESSAGE value="hm2..." />
+    <option name="LAST_COMMIT_MESSAGE" value="hm2..." />
+  </component>
+</project>
